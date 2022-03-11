@@ -396,12 +396,6 @@
 
         </GridLayout>
 
-        <androidx.cardview.widget.CardView
-            android:layout_width="match_parent"
-            android:layout_height="70dp"
-            android:layout_marginTop="8dp"
-            app:cardElevation="3dp">
-
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -453,8 +447,6 @@
 
             </LinearLayout>
 
-        </androidx.cardview.widget.CardView>
-
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -468,6 +460,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:layout_marginBottom="16dp"
+            app:cardCornerRadius="10dp"
             app:cardElevation="4dp">
 
             <LinearLayout
@@ -528,6 +521,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="8dp"
+            app:cardCornerRadius="10dp"
             app:cardElevation="4dp">
 
             <LinearLayout
@@ -538,7 +532,7 @@
 
                 <ImageView
                     android:layout_width="wrap_content"
-                    android:layout_height="200dp"
+                    android:layout_height="210dp"
                     android:src="@drawable/banner"/>
                 
                 <com.google.android.material.divider.MaterialDivider
