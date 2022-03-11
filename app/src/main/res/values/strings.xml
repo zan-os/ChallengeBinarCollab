@@ -28,4 +28,40 @@
     <string name="this_is_promo_fragment">This is promo fragment</string>
     <string name="gosend">GoSend</string>
     <string name="harta_karung_bentar_lagi_hilang">Harta karung bentar lagi hilang</string>
+    <string name="title_activity_shopee">ShopeeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="celana_olahraga_pria_pendek">Celana Olahraga Pria Pendek</string>
+    <string name="klaim_koin_disini">Klaim koin disini</string>
+    <string name="peduli_lindungi">Peduli Lindungi</string>
+    <string name="pulsa_tagihan_hiburan"><![CDATA[Pulsa, Tagihan & Hiburan]]></string>
+    <string name="shopee_mall">Shopee Mall</string>
+    <string name="shopee_supermarket">Shopee Supermarket</string>
+    <string name="gratis_ongkir_voucher"><![CDATA[Gratis Ongkir & Voucher]]></string>
+    <string name="shopee_games">Shopee Games</string>
+    <string name="bayar_di_tempat">Bayar Di Tempat</string>
+    <string name="shopeefood">ShopeeFood</string>
+    <string name="lihat_lainnya">Lihat Lainnya</string>
+    <string name="rp62_500">Rp62.500</string>
+    <string name="rp_48_000">Rp.48.000</string>
+    <string name="_30_terjual">30 TERJUAL</string>
+    <string name="_236_terjual">236 TERJUAL</string>
+    <string name="feed">Feed</string>
+    <string name="rekomendasi">Rekomendasi</string>
+    <string name="shopee_live">Shopee Live</string>
+    <string name="notifikasi">Notifikasi</string>
+    <string name="saya">Saya</string>
+    <string name="_50000_koin">50000 Koin</string>
+    <string name="_19">19</string>
+    <string name="_01">01</string>
+    <string name="_00">00</string>
+    <string name="_5000000">5000000</string>
+    <string name="_5000">5000 Koin</string>
 </resources>
